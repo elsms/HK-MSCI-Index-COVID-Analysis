@@ -68,3 +68,32 @@ The final results of the multiple linear regression model are presented in the t
 | MSCI COVID-19 | Highly significant and positive, suggesting that MSCI returns became more sensitive during the pandemic. This is consistent with studies documenting increased responsiveness of MSCI and other global equity indices to pandemic-related shocks (Ashraf, 2020; Bai et al., 2023).   |
 
 The multiple linear regression highlights the mean effects of COVID-19 variables on MSCI Hong Kong returns, with Hang Seng returns and the MSCI COVID indicator showing positive and statistically significant associations, while outbreak severity, recovery, and the time dummy are insignificant. Complementing this, the GARCH(1,1) model reveals that volatility is driven primarily by past conditional variance rather than immediate shocks, indicating strong volatility persistence. Together, the models suggest that while mean returns are influenced by market co-movements and pandemic sensitivity, the dynamics of volatility are governed by persistent market conditions rather than lagged shocks.
+
+# References 
+* Al-Awadhi, A.M., Alsaifi, K., Al-Awadhi, A. and Alhammadi, S. (2020), ‘Death and contagious infectious diseases: Impact of the COVID-19 virus on stock market returns’, *Journal of Behavioral and Experimental Finance*, 27, article number: 100326. Available at: https://doi.org/10.1016/j.jbef.2020.100326 
+
+* Ashraf B.N., ‘Stock markets’ reaction to COVID-19: Cases or fatalities?’, *Research in International Business and Finance*, 54, article number: 101249. Available at: https://doi.org/10.1016/j.ribaf.2020.101249 
+
+* Bai, C., Duan, Y., Fan, X. and Tang, S. (2023), ‘Financial market sentiment and stock return during the COVID-19 pandemic’, *Finance Research Letters*, 54, article number: 103709. Available at: https://doi.org/10.1016/j.frl.2023.103709 
+
+* Basuony, M.A.K., Bouaddi, M., Ali, H. and EmadEldeen, R. (2021), ‘Effect of COVID-19 pandemic on global stock markets: Return, volatility, and bad state probability dynamics’, *Journal of Public Affairs*. Available at: https://pubmed.ncbi.nlm.nih.gov/34899060/ (Access: 10 December 2025) 
+
+* Beer, C., Maniora, J. and Pott, C. (2023) ‘COVID-19 pandemic and capital markets: the role of government responses’, *Journal of Business Economics*, 93, pp. 11-57. Available at: https://doi.org/10.1007/s11573-022-01103-x  
+
+* Deng, T., Xu, T. and Lee, Y.J. (2022), ‘Policy responses to COVID-19 and stock market reactions – An international evidence’, *Journal of Economics and Business*, 119, article number: 106403. Available at: https://doi.org/10.1016/j.jeconbus.2021.106043  
+
+* Guven, M., Cetinguc, B., Guloglu, B. and Calisir, F. (2022), ‘The effects of daily growth in COVID-19 deaths, cases, and governments’ response policies on stock markets of emerging economies’, *Research in International Business and Finance*, 61, article number: 101659. Available at: https://doi.org/10.1016/j.ribaf.2022.101659 
+
+* Jiang, B., Gu, D., Sadiq, R., Khan T.M. and Chang, H.L. (2022), ‘Does the stringency of government interventions for COVID-19 reduce the negative impact on market growth? Evidence from Pacific and South Asia’, *ECONOMIC RESEARCH-EKONOMSKA ISTRAŽIVANJA*, 35(1), pp. 2093-2111. Available at: https://doi.org/10.1080/1331677X.2021.1934058  
+
+* Jin, C., Lu, X. and Zhang, Y. (2022), 'Market reaction, COVID-19 pandemic and return distribution’, *Finance Research Letters*, 47(b), article number: 102701. Available at: https://doi.org/10.1016/j.frl.2022.102701 
+
+* Khan, M.N., Fifield, S.G.M. and Power D.M. (2024), ‘The impact of the COVID 19 pandemic on stock market volatility: evidence from a selection of developed and emerging stock markets’, *SN Business & Economics*, 4. Available at: https://link.springer.com/article/10.1007/s43546-024-00659-w?utm_source=chatgpt.com (Accessed: 13 December 2025).  
+
+* Harjoto, M.A., Rossi, F., Lee, R. and Sergi, B.S. (2021), ‘How do equity markets react to COVID-19? Evidence from emerging and develop countries’, *Journal of Economics and Business*, 115, article number: 105996. Available at:  10.1016/j.jeconbus.2020.105966 
+
+* Harjoto, M.A., Rossi., F. and Paglia, J.K. (2021), ‘COVID-19: stock market reactions to the shock and stimulus’, *Applied Economics Letters*, 28(10), pp. 795-801. Available at: https://doi.org/10.1080/13504851.2020.1781767  
+
+* Liu, H.Y., Manzoor, A., Wang, C.Y., Zhang, L. and Manzoor, Z. (2020) ‘The COVID-19 Outbreak and Affected Countries Stock Markets Response’, *International Journal of Environmental Research and Public Health*, 17(8). Available at: https://doi.org/10.3390/ijerph17082800 
+
+* Shehzad, K., Xiaoxing, L. and Kazouz, H. (2020), ‘COVID-19’s disasters are perilous than Global Financial Crisis: A rumour or fact?’, *Finance Research Letters*, 36, article number: 101669. Available at: https://doi.org/10.1016/j.frl.2020.101669 
